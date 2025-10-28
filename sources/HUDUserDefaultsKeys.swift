@@ -1,0 +1,11 @@
+import Foundation
+
+let HUDUserDefaultsKeyPassthroughMode = "HUDUserDefaultsKeyPassthroughMode"
+let HUDUserDefaultsKeyKeepInPlace = "HUDUserDefaultsKeyKeepInPlace"
+let HUDUserDefaultsKeyHideAtSnapshot = "HUDUserDefaultsKeyHideAtSnapshot"
+let HUDUserDefaultsKeySingleLineMode = "HUDUserDefaultsKeySingleLineMode"
+let HUDUserDefaultsKeyUsesInvertedColor = "HUDUserDefaultsKeyUsesInvertedColor"
+let HUDUserDefaultsKeyUsesRotation = "HUDUserDefaultsKeyUsesRotation"
+let HUDUserDefaultsKeyUsesLargeFont = "HUDUserDefaultsKeyUsesLargeFont"
+let HUDUserDefaultsKeyUsesArrowPrefixes = "HUDUserDefaultsKeyUsesArrowPrefixes"
+let HUDUserDefaultsKeyUsesBitrate = "HUDUserDefaultsKeyUsesBitrate"
