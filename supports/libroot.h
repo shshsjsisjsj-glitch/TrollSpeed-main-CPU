@@ -1,5 +1,6 @@
-#ifndef libroot_h
-#define libroot_h
+// libroot.h placeholder (temporary fix)
+#ifndef LIBROOT_H
+#define LIBROOT_H
 
-// Stub header for build-time only (no functionality)
-#endif /* libroot_h */
+// Empty placeholder to avoid build errors on CI
+#endif
