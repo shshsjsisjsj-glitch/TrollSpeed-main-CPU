@@ -61,10 +61,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: Lessica/TrollSpeed
-          ref: main
-          path: TrollSpeed
-          submodules: recursive
+          with:
+  repository: shshsjsisjsj-glitch/TrollSpeed-main-CPU
+  ref: main
+  path: TrollSpeed
+  submodules: recursive
 
       - name: Setup build environment
         run: |
